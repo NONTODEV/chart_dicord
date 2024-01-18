@@ -1,0 +1,19 @@
+                // connection.receiver.speaking.on('end', async (userId) => {
+                //   isSpeaking = false;
+                //   const user = await voiceChannel.guild.members.fetch(userId);
+                //   console.log(user.user.username, `stopped speaking.`);
+                // });
+          
+                // if (intervalId !== null) {
+                //   clearInterval(intervalId);
+                //   intervalId = null;
+                // }
+          
+                // intervalId = setInterval(() => {
+                //   if (isSpeaking) {
+                //     const user = updatedState.member.user.username;
+                //     console.log(user, 'is still speaking...');
+                //   } else {
+                //     console.log('No user is speaking.');
+                //   }
+                // }, 5000);
